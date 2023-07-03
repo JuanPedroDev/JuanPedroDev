@@ -1,6 +1,6 @@
 ### Hello World, eu sou Juan Pedro! 👾👋
-° Atualmente estou cursando Engenharia de Software
-° Entusiasta e apaxiaondo em Tecnlogia 
+° Atualmente estou cursando Engenharia de Software<br>
+° Entusiasta e apaixonado em Tecnlogia<br> 
 ° Atualmente estudando desenvolvimento WEB
 ##
 
